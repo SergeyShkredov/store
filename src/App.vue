@@ -11,7 +11,7 @@
         <li v-if="showAdminBoard123" class="nav-item">
           <router-link to="/admin" class="nav-link">Admin Board</router-link>
         </li>
-        <li v-if="showModeratorBoard" class="nav-item">
+        <li v-if="showModeratorBoard123" class="nav-item">
           <router-link to="/mod" class="nav-link">Moderator Board</router-link>
         </li>
         <li class="nav-item">
